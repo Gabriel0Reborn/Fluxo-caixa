@@ -27,12 +27,14 @@ Compile o código:
 ```bash
 
 javac src/Main.java
+
 ```
 Execute o programa:
 
 ```bash
 
 java -cp src Main
+
 E pronto! O sistema estará rodando no seu terminal.
 ```
 # 💡 Funcionalidades Principais
