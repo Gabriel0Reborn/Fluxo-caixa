@@ -17,24 +17,24 @@ Certifique-se de que você tem o Java Development Kit (JDK) versão 24 instalado
 Executando o Projeto
 Clone o repositório:
 
-bash
+```bash
 
 git clone https://github.com/Gabriel0Reborn/Fluxo-caixa.git
 cd Fluxo-caixa/Proj # Navegue até a pasta do projeto, se necessário
-
+```
 Compile o código:
 
-bash
+```bash
 
 javac src/Main.java
-
+```
 Execute o programa:
 
-bash
+```bash
 
 java -cp src Main
 E pronto! O sistema estará rodando no seu terminal.
-
+```
 # 💡 Funcionalidades Principais
 Nosso sistema foi construído pensando na sua facilidade de uso:
 
