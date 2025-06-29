@@ -36,15 +36,15 @@ E pronto! O sistema estará rodando no seu terminal.
 # 💡 Funcionalidades Principais
 Nosso sistema foi construído pensando na sua facilidade de uso:
 
-# 🔒 Segurança no Acesso: Login e registro para novos usuários, garantindo que suas informações fiquem protegidas.
+## 🔒 Segurança no Acesso: Login e registro para novos usuários, garantindo que suas informações fiquem protegidas.
 
-# 💸 Controle de Transações: Registre facilmente suas entradas (receitas) e saídas (despesas).
+## 💸 Controle de Transações: Registre facilmente suas entradas (receitas) e saídas (despesas).
 
-# ↩️ Ações Flexíveis: Cometeu um erro? Use nossas funções de Desfazer e Refazer transações.
+## ↩️ Ações Flexíveis: Cometeu um erro? Use nossas funções de Desfazer e Refazer transações.
 
-# 💰 Saldo Atualizado: Calcule automaticamente seu saldo em tempo real, sem dor de cabeça!
+## 💰 Saldo Atualizado: Calcule automaticamente seu saldo em tempo real, sem dor de cabeça!
 
-# 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 Organização é a chave! Veja como nosso projeto está estruturado:
 
 # 📦 src/
