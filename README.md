@@ -47,11 +47,10 @@ Nosso sistema foi construído pensando na sua facilidade de uso:
 # 📂 Estrutura do Projeto
 Organização é a chave! Veja como nosso projeto está estruturado:
 
-# 📦 src/
- ┣ 📁 control/    # Lógica de controle e manipulação de dados
- ┣ 📁 model/      # Modelos de dados e objetos (ex: Transação, Usuário)
- ┣ 📁 view/       # Componentes de interface e exibição (no terminal)
- ┣ 📄 Main.java   # Ponto de entrada principal do sistema
+## 📦 src/
+ # ┣ 📁 model/      # Modelos de dados e objetos (ex: Transação, Usuário)
+ # ┣ 📁 view/       # Componentes de interface e exibição (no terminal)
+ # ┣ 📄 Main.java   # Ponto de entrada principal do sistema
 # 🙋‍♂️ Desenvolvedor
 Este projeto foi carinhosamente desenvolvido por:
 
